@@ -2,7 +2,7 @@
 
 このリポジトリでは、気象庁のAPIを利用して天気予報を取得し、シンプルなWebページで表示するためのソースコードを提供しています。  
 GitHub Pages を使って公開すれば、誰でもURLを開くだけで最新の天気情報を確認できます。
-![image](https://github.com/user-attachments/assets/32f30c2b-b84b-4b44-8f2e-25da83679169)
+![image](https://github.com/user-attachments/assets/b61a43f9-e0e0-4078-a15f-c34a9bf84212)
 
 [https://nakkinakki55.github.io/real-time-weather/real-time-weather.html](https://nakkinakki55.github.io/real-time-weather/real-time-weather.html)
 
