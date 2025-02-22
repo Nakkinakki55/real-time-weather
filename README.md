@@ -27,7 +27,7 @@ GitHub Pages を使って公開すれば、誰でもURLを開くだけで最新�
 
 ## 使い方
 
-1. リポジトリをクローンする  git clone https://github.com/your-username/weather-display.git
+1. リポジトリをクローンする  git clone https://github.com/Nakkinakki55/real-time-weather
 2. `index.html` をブラウザで開く
 3. 天気予報が表示されることを確認する
 
