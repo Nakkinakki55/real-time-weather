@@ -4,6 +4,7 @@
 GitHub Pages を使って公開すれば、誰でもURLを開くだけで最新の天気情報を確認できます。
 ![image](https://github.com/user-attachments/assets/b61a43f9-e0e0-4078-a15f-c34a9bf84212)
 
+今回発行したURLは下記の通りです。
 [https://nakkinakki55.github.io/real-time-weather/real-time-weather.html](https://nakkinakki55.github.io/real-time-weather/real-time-weather.html)
 
 ## このプロジェクトについて
