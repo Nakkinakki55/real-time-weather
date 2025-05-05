@@ -27,10 +27,6 @@ GitHub Pages を使って公開すれば、誰でもURLを開くだけで最新�
 | **データ取得** | 気象庁の天気予報API |
 | **ホスティング** | GitHub Pages |
 
-詳しくは、以下の記事をご覧ください。
-
-- **[無料で簡単！天気予報サイトを公開する方法をやさしく解説](https://qiita.com/nishifeoda/items/de3e8b7081a9381c0ce7)**
-- **[Raspberry Piを使って簡単・低コストで天気予報を大型画面に表示する方法](https://qiita.com/nishifeoda/items/6d7fecb8dcc4c3bbad21)**
 
 
 ## インストール方法
