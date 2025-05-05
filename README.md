@@ -19,22 +19,31 @@ GitHub Pages を使って公開すれば、誰でもURLを開くだけで最新�
 元々は Raspberry Pi を使ってデジタルサイネージのように表示するシステムを作成しましたが、  
 「もっと簡単に、誰でもどこからでも見られる方法がいい！」というフィードバックを受け、GitHub Pages を使った方法を考案しました。
 
+## 使用技術
+| 技術 | 詳細 |
+|------|------|
+| **フロントエンド** | HTML / CSS / JavaScript |
+| **デザインフレームワーク** | Bootstrap |
+| **データ取得** | 気象庁の天気予報API |
+| **ホスティング** | GitHub Pages |
+
 詳しくは、以下の記事をご覧ください。
 
 - **[無料で簡単！天気予報サイトを公開する方法をやさしく解説](https://qiita.com/nishifeoda/items/de3e8b7081a9381c0ce7)**
 - **[Raspberry Piを使って簡単・低コストで天気予報を大型画面に表示する方法](https://qiita.com/nishifeoda/items/6d7fecb8dcc4c3bbad21)**
 
-## 使用技術
 
-- **HTML** + **JavaScript**（フロントエンドのみ）
-- **Bootstrap**（デザイン）
-- **気象庁のAPI**（天気データ取得）
+## インストール方法
+### 1. リポジトリをクローン
+```txt
+git clone https://github.com/Nakkinakki55/real-time-weather.git
+cd real-time-weather
+```
 
-## 使い方
-
-1. リポジトリをクローンする  git clone https://github.com/Nakkinakki55/real-time-weather
-2. `real-time-weather.html` をブラウザで開く
-3. 天気予報が表示されることを確認する
+## デプロイ方法
+デプロイする手順については、以下の記事を参考にするとスムーズに進められます。 
+<br>
+[無料で簡単！天気予報サイトを公開する方法をやさしく解説 #Git - Qiita](https://qiita.com/nishifeoda/items/de3e8b7081a9381c0ce7)
 
 ## GitHub Pagesで公開する方法
 
