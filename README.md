@@ -96,7 +96,7 @@ For a smooth deployment process, please refer to the following article:
 <br>
 [Free & Easy! A Simple Guide to Publishing a Weather Forecast Website #Git - Qiita](https://qiita.com/nishifeoda/items/de3e8b7081a9381c0ce7)
 
-## GitHub Pagesで公開する方法
+## How to Publish with GitHub Pages
 
 1. Fork this repository (or clone it and upload it to your own repository).
 2. On your GitHub repository page, go to "Settings" → "Pages".
